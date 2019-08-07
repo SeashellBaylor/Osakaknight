@@ -222,3 +222,4 @@ love:
 # back to top
 totop:
     enable: true
+theme: jekyll-theme-cayman
